@@ -36,4 +36,4 @@ Arithi gives students hands-on STEM: coding, future skills, school clubs and int
 
 Schools, partners and press can reach us through [arithi.in/contact](https://arithi.in/contact). Logos and colours are at [arithi.in/brand-assets](https://arithi.in/brand-assets).
 
-<sub>© Arithi Innovation & Technologies Private Limited</sub>
+<sub>© Arithi Innovation & Technologies</sub>
